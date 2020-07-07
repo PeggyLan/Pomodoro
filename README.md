@@ -1,7 +1,7 @@
 # pomodoro
 
 ## DEMO 
-https://peggylan.github.io/pomodoro/.
+https://peggylan.github.io/pomodoro/
 ## Project setup
 ```
 npm install
