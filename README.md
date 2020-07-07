@@ -1,6 +1,6 @@
 # pomodoro
 
-##DEMO 
+## DEMO 
 https://peggylan.github.io/pomodoro/.
 ## Project setup
 ```
