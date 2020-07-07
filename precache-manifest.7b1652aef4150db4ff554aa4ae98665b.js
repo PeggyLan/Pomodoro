@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "alarms/whatsapp.mp3"
   },
   {
-    "revision": "6a6bfe27c80e4e9eb194",
-    "url": "css/app.c1515f78.css"
+    "revision": "6e85a641ffe8f1e9faf8",
+    "url": "css/app.cf1aa3d7.css"
   },
   {
     "revision": "d7a6ad58c3e64ef1324b",
@@ -36,11 +36,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/architects-daughter-latin-400-normal.83db1f97.woff"
   },
   {
-    "revision": "e486b045161357cfdba0df4e5256ba39",
+    "revision": "25c6d970a1be0af66a9f370d1f5fc1c6",
     "url": "index.html"
   },
   {
-    "revision": "6a6bfe27c80e4e9eb194",
+    "revision": "6e85a641ffe8f1e9faf8",
     "url": "js/app.33343043.js"
   },
   {
